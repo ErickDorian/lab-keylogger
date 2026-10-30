@@ -1,4 +1,4 @@
-# Keylogger Simples simulado com Python  
+# Keylogger simples simulado com Python  
 
 > Projeto educacional — desenvolvido em ambiente controlado para fins de estudo!  
 
