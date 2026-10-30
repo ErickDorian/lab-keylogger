@@ -1,0 +1,5 @@
+[SHIFT]Oi, meu nome ´e [SHIFT]Erick[SHIFT]
+
+Sou formado em c[APAGAR][CAPS_LOCK]ads[CAPS_LOCK], e estou estudando cybersegurança.
+[SHIFT]Este projeto da [CAPS_LOCK]dio[CAPS_LOCK] ´t[APAGAR][APAGAR]tem como objetivo criar um keylogger que registra tudo que est´a sendo digitado em minha maquina, replicando em um arquivo de log para que possa ser consultado futuramente por uma pessoa m´a intencionada.
+[ESC]
