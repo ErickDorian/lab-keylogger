@@ -31,7 +31,14 @@ Pressionar a tecla 'ESC'
 keylogger.py - código principal  
 log_teclas.txt - arquivo gerado com os registros do keylogger (criados automaticamente pelo código)  
 
-## Evidências:
+## Execução do código (VSCODE)  
+![Tela mostrando o keylogger rodando](./evidencias/codpy.png)
+
+## Aplicativo aonde eu estava escrevendo com o Keylogger ativo rodando em segundo plano  
+![Simulacao](./evidencias/documento%20que%20eu%20estava%20escrevendo.png)
+
+## Log gerado pelo Keylogger  
+![Simulacao](./evidencias/log%20gerado%20pelo%20keylogger.png)
 
 ## Reflexão sobre Defesa:  
 - Keyloggers reais geralmente se disfarçam de programas úteis  
